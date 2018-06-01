@@ -13,7 +13,7 @@ Here's the code for compilation of our "ctest" library and "prog" program:
 
   export LD_LIBRARY_PATH=.
 
-  ./cprog
+  ./prog
 
 
 
